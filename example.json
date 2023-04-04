@@ -1,0 +1,27 @@
+[
+    {
+        "updated": null,
+        "a": {
+            "updated": null,
+            "b": [
+                {
+                    "updated": null,
+                    "c": [
+                        {
+                            "updated": null
+                        },
+                        2
+                    ]
+                },
+                2
+            ]
+        },
+        "d": 1,
+        "e": {
+            "updated": null
+        }
+    }, 
+    {
+        "updated": null
+    }
+]
